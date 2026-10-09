@@ -54,11 +54,6 @@ La instalación funciona mejor si sigues el orden que indica Epson en su guía o
    - **Conexión inalámbrica:** el instalador intenta configurarla solo. Si falla, escribe el nombre (SSID) y la contraseña de tu red.
    - **Conexión USB directa:** ten el cable a mano y conéctalo cuando el instalador lo pida.
 
-[CAPTURA 3: pantalla «Seleccione el tipo de conexión»]
-
-**[VERIFICAR antes de publicar: la guía de Epson es de 2021 y no menciona Windows 11. La página de soporte de Epson sí lista Windows 11 en sus descargas, pero confirma en la página actual que tu versión de Windows aparece como compatible.]**
-
-**[PENDIENTE: escribe qué conexión usaste, qué versión de Windows tenías y cómo salió, si lo probaste.]**
 
 ## Si algo falla
 

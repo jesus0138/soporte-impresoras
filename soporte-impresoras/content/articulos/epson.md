@@ -41,7 +41,7 @@ Según el manual de la L3250, hay dos causas para una impresión en blanco:
 
 1. Carga papel normal A4.
 2. Apaga la impresora con su botón de encendido.
-3. Enciéndela manteniendo pulsado el botón indicado en el manual. **[VERIFICAR: el manual muestra un icono; confirma en tu impresora cuál botón es antes de publicar]**. Cuando la luz de encendido parpadee, suelta los botones.
+3. Enciéndela manteniendo pulsado el botón indicado en el manual. **[VERIFICAR: el manual muestra un icono; confirma en tu impresora cuál botón es]**. Cuando la luz de encendido parpadee, suelta los botones.
 4. Se imprimirá el patrón de test. Puede tardar un poco.
 
 
